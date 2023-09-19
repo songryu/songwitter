@@ -1,0 +1,6 @@
+{//모든것이 src로부터 시작됨
+    "compilerOptions": {
+        "baseUrl": "src"
+    },
+    "include": ["src"]
+}
